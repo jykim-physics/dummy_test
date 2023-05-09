@@ -25,5 +25,11 @@
       <latching>true</latching>
       <annunciating>true</annunciating>
     </pv>
+    <pv name="test2">
+      <description>test2</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
   </component>
 </config>
