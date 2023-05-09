@@ -13,6 +13,8 @@
       <latching>true</latching>
       <annunciating>true</annunciating>
     </pv>
+    <component name="Node2">
+    </component>
     <pv name="OK">
       <description>OK</description>
       <enabled>true</enabled>
