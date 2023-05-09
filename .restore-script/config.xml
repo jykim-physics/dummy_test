@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config name="Accelerator">
+  <component name="Test">
+    <pv name="MAJOR">
+      <description>MAJOR</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
+    <pv name="MINOR">
+      <description>MINOR</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
+    <pv name="OK">
+      <description>OK</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
+  </component>
+</config>
