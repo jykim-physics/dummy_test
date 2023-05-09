@@ -8,7 +8,7 @@
       <annunciating>true</annunciating>
     </pv>
     <pv name="MINOR">
-      <description>MINOR</description>
+      <description>MINOR(test)</description>
       <enabled>true</enabled>
       <latching>true</latching>
       <annunciating>true</annunciating>
